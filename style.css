@@ -1,0 +1,12 @@
+#myForm{
+    margin: 10px;
+    height: 100%;
+    background-color: violet;
+}
+
+#savedData{
+    width: 50%;
+    height: 100%;
+    margin: 10px;
+    background-color: yellowgreen;
+}
